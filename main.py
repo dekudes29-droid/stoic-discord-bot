@@ -1,18 +1,18 @@
 import random
 import os
+import json
 import requests
 
 WEBHOOK = os.environ["DISCORD_WEBHOOK"]
 
-quotes = [
-    ("Waste no more time arguing what a good man should be. Be one.", "Marcus Aurelius"),
-    ("We suffer more often in imagination than in reality.", "Seneca"),
-    ("It's not what happens to you, but how you react to it that matters.", "Epictetus"),
-    ("You have power over your mind—not outside events. Realize this, and you will find strength.", "Marcus Aurelius"),
-    ("Difficulties strengthen the mind, as labor does the body.", "Seneca"),
-]
+# Load quotes from quotes.json
+with open("quotes.json", "r", encoding="utf-8") as f:
+    quotes = json.load(f)
 
-quote, author = random.choice(quotes)
+selected = random.choice(quotes)
+
+quote = selected["quote"]
+author = selected["author"]
 
 payload = {
     "embeds": [
@@ -27,4 +27,10 @@ payload = {
     ]
 }
 
-requests.post(WEBHOOK, json=payload)
+response = requests.post(WEBHOOK, json=payload)
+
+if response.status_code == 204:
+    print("Quote sent successfully!")
+else:
+    print(f"Failed: {response.status_code}")
+    print(response.text)
