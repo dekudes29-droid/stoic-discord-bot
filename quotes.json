@@ -1,1502 +1,1202 @@
 [
-{
-"id": 1,
-"quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 2,
-"quote": "The happiness of your life depends upon the quality of your thoughts.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 3,
-"quote": "Waste no more time arguing about what a good man should be. Be one.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 4,
-"quote": "The best revenge is to be unlike him who performed the injury.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 5,
-"quote": "The soul becomes dyed with the color of its thoughts.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 6,
-"quote": "It is not death that a man should fear, but he should fear never beginning to live.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 7,
-"quote": "Our life is what our thoughts make it.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 8,
-"quote": "Reject your sense of injury and the injury itself disappears.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 9,
-"quote": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 10,
-"quote": "Very little is needed to make a happy life; it is all within yourself in your way of thinking.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 11,
-"quote": "We suffer more often in imagination than in reality.",
-"author": "Seneca"
-},
-{
-"id": 12,
-"quote": "As long as you live, keep learning how to live.",
-"author": "Seneca"
-},
-{
-"id": 13,
-"quote": "True happiness is to enjoy the present, without anxious dependence upon the future.",
-"author": "Seneca"
-},
-{
-"id": 14,
-"quote": "Luck is what happens when preparation meets opportunity.",
-"author": "Seneca"
-},
-{
-"id": 15,
-"quote": "All cruelty springs from weakness.",
-"author": "Seneca"
-},
-{
-"id": 16,
-"quote": "Difficulties strengthen the mind, as labor does the body.",
-"author": "Seneca"
-},
-{
-"id": 17,
-"quote": "If a man knows not to which port he sails, no wind is favorable.",
-"author": "Seneca"
-},
-{
-"id": 18,
-"quote": "It is the power of the mind to be unconquerable.",
-"author": "Seneca"
-},
-{
-"id": 19,
-"quote": "No man is more unhappy than he who never faces adversity, for he is not permitted to prove himself.",
-"author": "Seneca"
-},
-{
-"id": 20,
-"quote": "He suffers more than necessary who suffers before it is necessary.",
-"author": "Seneca"
-},
-{
-"id": 21,
-"quote": "We cannot choose our external circumstances, but we can always choose how we respond to them.",
-"author": "Epictetus"
-},
-{
-"id": 22,
-"quote": "It's not what happens to you, but how you react to it that matters.",
-"author": "Epictetus"
-},
-{
-"id": 23,
-"quote": "No man is free who is not master of himself.",
-"author": "Epictetus"
-},
-{
-"id": 24,
-"quote": "Man is not worried by real problems so much as by his imagined anxieties about real problems.",
-"author": "Epictetus"
-},
-{
-"id": 25,
-"quote": "First learn the meaning of what you say, and then speak.",
-"author": "Epictetus"
-},
-{
-"id": 26,
-"quote": "If you want to improve, be content to be thought foolish and stupid.",
-"author": "Epictetus"
-},
-{
-"id": 27,
-"quote": "Any person capable of angering you becomes your master.",
-"author": "Epictetus"
-},
-{
-"id": 28,
-"quote": "He who laughs at himself never runs out of things to laugh at.",
-"author": "Epictetus"
-},
-{
-"id": 29,
-"quote": "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.",
-"author": "Epictetus"
-},
-{
-"id": 30,
-"quote": "Only the educated are free.",
-"author": "Epictetus"
-},
-{
-"id": 31,
-"quote": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 32,
-"quote": "Keep your attention focused entirely on what is truly your own concern.",
-"author": "Epictetus"
-},
-{
-"id": 33,
-"quote": "A gift consists not in what is done or given, but in the intention of the giver or doer.",
-"author": "Seneca"
-},
-{
-"id": 34,
-"quote": "The primary sign of a well-ordered mind is a man's ability to remain in one place and linger in his own company.",
-"author": "Seneca"
-},
-{
-"id": 35,
-"quote": "Nowhere can man find a quieter or more untroubled retreat than in his own soul.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 36,
-"quote": "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 37,
-"quote": "He who is brave is free.",
-"author": "Seneca"
-},
-{
-"id": 38,
-"quote": "If it is not right do not do it; if it is not true do not say it.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 39,
-"quote": "Choose not to be harmed\u2014and you won't feel harmed. Don't feel harmed\u2014and you haven't been.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 40,
-"quote": "The best wealth is a poverty of desires.",
-"author": "Seneca"
-},
-{
-"id": 41,
-"quote": "Don't explain your philosophy. Embody it.",
-"author": "Epictetus"
-},
-{
-"id": 42,
-"quote": "The minor things do not matter, only your virtue matters.",
-"author": "Zeno of Citium"
-},
-{
-"id": 43,
-"quote": "Wellbeing is attained by little and little, and yet is no little thing itself.",
-"author": "Zeno of Citium"
-},
-{
-"id": 44,
-"quote": "Man conquers the world by conquering himself.",
-"author": "Zeno of Citium"
-},
-{
-"id": 45,
-"quote": "Steep is the ascent, but the view is magnificent.",
-"author": "Seneca"
-},
-{
-"id": 46,
-"quote": "We have two ears and one mouth so that we can listen twice as much as we speak.",
-"author": "Zeno of Citium"
-},
-{
-"id": 47,
-"quote": "No loss should be more severely felt than that of time, for it is irretrievable.",
-"author": "Zeno of Citium"
-},
-{
-"id": 48,
-"quote": "Steel your mind against external disasters.",
-"author": "Chrysippus"
-},
-{
-"id": 49,
-"quote": "The wise man is self-sufficient.",
-"author": "Chrysippus"
-},
-{
-"id": 50,
-"quote": "If you choose, you are free; if you choose, you need blame no one.",
-"author": "Epictetus"
-},
-{
-"id": 51,
-"quote": "Associate with people who are likely to improve you.",
-"author": "Seneca"
-},
-{
-"id": 52,
-"quote": "Let all your things have their places; let each part of your business have its time.",
-"author": "Epictetus"
-},
-{
-"id": 53,
-"quote": "To be calm is the highest achievement of the self.",
-"author": "Zenodotus"
-},
-{
-"id": 54,
-"quote": "Virtue is the only true good.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 55,
-"quote": "To live a good life: We have the potential for it. If we can learn to be indifferent to what makes no difference.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 56,
-"quote": "Think of yourself as dead. You have lived your life. Now, take what's left and live it properly.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 57,
-"quote": "Receive without conceit, release without struggle.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 58,
-"quote": "Loss is nothing else but change, and change is Natures delight.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 59,
-"quote": "The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 60,
-"quote": "Because your own strength is unequal to the task, do not assume that it is beyond the powers of man.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 61,
-"quote": "The precision of our duties matches the clarity of our reason.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 62,
-"quote": "Nothing happens to anybody which he is not fitted by nature to bear.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 63,
-"quote": "When force of circumstance upsets your equanimity, lose no time in recovering your self-control.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 64,
-"quote": "Do not build external walls when you require internal anchors.",
-"author": "Seneca"
-},
-{
-"id": 65,
-"quote": "Begin each day by telling yourself: Today I shall be meeting with interference, ingratitude, insolence, disloyalty, ill-will, and selfishness.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 66,
-"quote": "That which is not good for the bee-hive cannot be good for the bee.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 67,
-"quote": "He who lives in harmony with himself lives in harmony with the universe.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 68,
-"quote": "The memory of everything is very soon overwhelmed in time.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 69,
-"quote": "Every soul is deprived of truth against its will.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 70,
-"quote": "Time is a sort of river of passing events, and strong is its current.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 71,
-"quote": "To understand the true quality of people, look into their minds, examine their pursuits and aversions.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 72,
-"quote": "Whatever happens to you has been waiting to happen since the beginning of time.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 73,
-"quote": "Do every act of your life as though it were the very last act of your life.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 74,
-"quote": "The universal nature has given to each rational being the power of conforming its actions to the reason.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 75,
-"quote": "Be like the cliff against which the waves continually break; but it stands firm and tames the fury of the water around it.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 76,
-"quote": "In a word, your life is short. Make the most of the present with aid of reason and justice.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 77,
-"quote": "The mind which is free from passions is a fortress, for man has nothing more secure to which he can fly.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 78,
-"quote": "A man's worth is no greater than his ambitions.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 79,
-"quote": "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 80,
-"quote": "Adapt yourself to the life you have been given and truly love the people with whom fate has surrounded you.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 81,
-"quote": "Do not indulge in dreams of having what you have not, but reckon up the chief of the blessings you do possess.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 82,
-"quote": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 83,
-"quote": "People are local, but virtue is universal.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 84,
-"quote": "Accustom yourself to attend carefully to what is said by another, and as much as it is possible, be within the speaker's mind.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 85,
-"quote": "What an endless space of time has preceded us, and what an infinity will follow.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 86,
-"quote": "Everything that happens happens justly. If you observe carefully, you will find this to be true.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 87,
-"quote": "Do not be ashamed of admitting help. It is your task to achieve your duty, like a soldier on the rampart.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 88,
-"quote": "The best way to avenge yourself is to not be like that.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 89,
-"quote": "Examine the men who are called successful, and you will find they are driven by temporary desires.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 90,
-"quote": "No form of vessel is shattered if its interior remains strong against pressure.",
-"author": "Seneca"
-},
-{
-"id": 91,
-"quote": "The condition of a citizen requires that he value his own sanity above the praise of crowds.",
-"author": "Epictetus"
-},
-{
-"id": 92,
-"quote": "Is your cucumber bitter? Throw it away. Are there briars in your path? Turn aside. That is enough.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 93,
-"quote": "If any man is able to convince me and show me that I do not think or act right, I will gladly change.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 94,
-"quote": "Such as are your habitual thoughts, such also will be the character of your mind.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 95,
-"quote": "To love only what happens, what was destined. No greater harmony exists.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 96,
-"quote": "Do not act as if you were going to live ten thousand years. Death hangs over you.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 97,
-"quote": "How much time he gains who does not look to see what his neighbour says or does or thinks.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 98,
-"quote": "Everything which is in any way beautiful is beautiful in itself, and terminates in itself, not having praise as part of itself.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 99,
-"quote": "Do not scramble through life; let your actions be complete, your speech plain, and your thoughts deep.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 100,
-"quote": "He who uncovers truth uncovers a refuge from anxiety.",
-"author": "Seneca"
-},
-{
-"id": 101,
-"quote": "No man is crushed by misfortune unless he has first been deceived by prosperity.",
-"author": "Seneca"
-},
-{
-"id": 102,
-"quote": "We should every night call ourselves to an account: What infirmity have I mastered today?",
-"author": "Seneca"
-},
-{
-"id": 103,
-"quote": "Expect to encounter small minds; resolve to retain a great one.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 104,
-"quote": "Enjoy your own life without comparing it with that of another.",
-"author": "Seneca"
-},
-{
-"id": 105,
-"quote": "Most powerful is he who has himself in his own power.",
-"author": "Seneca"
-},
-{
-"id": 106,
-"quote": "The path of virtue is narrow, but it leads to heights unmatched by greed.",
-"author": "Zeno of Citium"
-},
-{
-"id": 107,
-"quote": "A large part of goodness is the desire to become good.",
-"author": "Seneca"
-},
-{
-"id": 108,
-"quote": "You must expect everything to happen, and steel your mind for all outcomes.",
-"author": "Seneca"
-},
-{
-"id": 109,
-"quote": "Fire tests gold, adversity tests brave men.",
-"author": "Seneca"
-},
-{
-"id": 110,
-"quote": "The mind that is anxious about future events is miserable.",
-"author": "Seneca"
-},
-{
-"id": 111,
-"quote": "Sorrow is a debt we pay to our own lack of perspective.",
-"author": "Epictetus"
-},
-{
-"id": 112,
-"quote": "Nothing is honorable which is not also just.",
-"author": "Seneca"
-},
-{
-"id": 113,
-"quote": "It is not the man who has too little, but the man who craves more, that is poor.",
-"author": "Seneca"
-},
-{
-"id": 114,
-"quote": "Our duty is to act well our given part; the selection of the part belongs to another.",
-"author": "Epictetus"
-},
-{
-"id": 115,
-"quote": "The greatest remedy for anger is delay.",
-"author": "Seneca"
-},
-{
-"id": 116,
-"quote": "To be always fortunate, and to pass through life with a soul that has never known sorrow, is to be ignorant of one half of nature.",
-"author": "Seneca"
-},
-{
-"id": 117,
-"quote": "While we are postponing, life speeds by.",
-"author": "Seneca"
-},
-{
-"id": 118,
-"quote": "There is no enjoying the possession of anything valuable unless one has a mind companionable with its loss.",
-"author": "Seneca"
-},
-{
-"id": 119,
-"quote": "Life is very short and anxious for those who forget the past, neglect the present, and fear the future.",
-"author": "Seneca"
-},
-{
-"id": 120,
-"quote": "He who is a friend to himself is also a friend to all men.",
-"author": "Seneca"
-},
-{
-"id": 121,
-"quote": "Until we have begun to go without them, we fail to realize how unnecessary many things are.",
-"author": "Seneca"
-},
-{
-"id": 122,
-"quote": "It is a rough road that leads to the heights of greatness.",
-"author": "Seneca"
-},
-{
-"id": 123,
-"quote": "If you wish to be loved, love.",
-"author": "Seneca"
-},
-{
-"id": 124,
-"quote": "A room without books is like a body without a soul, but a mind without restraint is a body without a pilot.",
-"author": "Seneca"
-},
-{
-"id": 125,
-"quote": "The fidelity of a friend is more valuable than all the wealth of an empire.",
-"author": "Seneca"
-},
-{
-"id": 126,
-"quote": "The part of life we really live is small. For all the rest of existence is not life, but merely time.",
-"author": "Seneca"
-},
-{
-"id": 127,
-"quote": "Every night, let your actions submit to internal trial.",
-"author": "Seneca"
-},
-{
-"id": 128,
-"quote": "Regard a friend as loyal, and you will make him loyal.",
-"author": "Seneca"
-},
-{
-"id": 129,
-"quote": "He who runs from fate runs from his own highest good.",
-"author": "Zeno of Citium"
-},
-{
-"id": 130,
-"quote": "Quiet minds cannot be perplexed or frightened by external thunder.",
-"author": "Seneca"
-},
-{
-"id": 131,
-"quote": "Quiet minds cannot be perplexed or frightened by external thunder.",
-"author": "Seneca"
-},
-{
-"id": 132,
-"quote": "Nothing is so wretched or foolish as to anticipate misfortune.",
-"author": "Seneca"
-},
-{
-"id": 133,
-"quote": "Men do not care how nobly they live, but only how long, although it is within the reach of every man to live nobly.",
-"author": "Seneca"
-},
-{
-"id": 134,
-"quote": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-"author": "Seneca"
-},
-{
-"id": 135,
-"quote": "If you are detached from outcomes, you are safe from disappointments.",
-"author": "Epictetus"
-},
-{
-"id": 136,
-"quote": "He who has made the world his community has no reason to fear isolation.",
-"author": "Zeno of Citium"
-},
-{
-"id": 137,
-"quote": "No evil is honorable; but death is honorable; therefore death is not an evil.",
-"author": "Zeno of Citium"
-},
-{
-"id": 138,
-"quote": "The goal of life is living in agreement with nature.",
-"author": "Zeno of Citium"
-},
-{
-"id": 139,
-"quote": "A bad feeling is a commotion of the mind repugnant to reason, and against nature.",
-"author": "Zeno of Citium"
-},
-{
-"id": 140,
-"quote": "The avaricious man is like the barren sandy ground of the desert which sucks in all the rain and dews with greediness.",
-"author": "Zeno of Citium"
-},
-{
-"id": 141,
-"quote": "Follow where your reason guides, and let the opinions of fools fall away like dust.",
-"author": "Chrysippus"
-},
-{
-"id": 142,
-"quote": "When a man speaks without understanding, his words are merely noise.",
-"author": "Chrysippus"
-},
-{
-"id": 143,
-"quote": "There are things which are within our power, and there are things which are beyond our power.",
-"author": "Epictetus"
-},
-{
-"id": 144,
-"quote": "Control your passions lest they take vengeance on you.",
-"author": "Epictetus"
-},
-{
-"id": 145,
-"quote": "No person is free who is not master of himself.",
-"author": "Epictetus"
-},
-{
-"id": 146,
-"quote": "If evil be spoken of thee, and it be true, correct thyself; if it be a lie, laugh at it.",
-"author": "Epictetus"
-},
-{
-"id": 147,
-"quote": "Wish not that things should happen as you wish, but wish the things which happen to be as they are.",
-"author": "Epictetus"
-},
-{
-"id": 148,
-"quote": "Neither should a ship rely on one small anchor, nor should life depend on a single hope.",
-"author": "Epictetus"
-},
-{
-"id": 149,
-"quote": "Small minds blame others. Average minds blame themselves. Wise minds see no one to blame.",
-"author": "Epictetus"
-},
-{
-"id": 150,
-"quote": "God has entrusted me with myself. No one can steal that trust.",
-"author": "Epictetus"
-},
-{
-"id": 151,
-"quote": "If you want something good, get it from yourself.",
-"author": "Epictetus"
-},
-{
-"id": 152,
-"quote": "It is the act of an ill-instructed man to blame others for his own bad condition.",
-"author": "Epictetus"
-},
-{
-"id": 153,
-"quote": "Only the man who desires nothing external can be truly independent.",
-"author": "Epictetus"
-},
-{
-"id": 154,
-"quote": "Attach yourself to what is spiritually superior, regardless of what other people think or do.",
-"author": "Epictetus"
-},
-{
-"id": 155,
-"quote": "Seek not the good in outward things; seek it in yourselves.",
-"author": "Epictetus"
-},
-{
-"id": 156,
-"quote": "Men are disturbed not by things, but by the views which they take of things.",
-"author": "Epictetus"
-},
-{
-"id": 157,
-"quote": "To accuse others for one's own misfortunes is a sign of want of education.",
-"author": "Epictetus"
-},
-{
-"id": 158,
-"quote": "When you are offended at any man's fault, turn to yourself and study your own failings.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 159,
-"quote": "True freedom is the ability to choose your own attitude in any circumstance.",
-"author": "Epictetus"
-},
-{
-"id": 160,
-"quote": "Do not look to the theatres or the plazas for validation; find it in your own judgment.",
-"author": "Musonius Rufus"
-},
-{
-"id": 161,
-"quote": "If you speak truth, you need not remember your past declarations.",
-"author": "Epictetus"
-},
-{
-"id": 162,
-"quote": "Choose rather to punish your appetites than to be punished by them.",
-"author": "Epictetus"
-},
-{
-"id": 163,
-"quote": "Practice yourself, for heaven's sake, in little things; and thence proceed to greater.",
-"author": "Epictetus"
-},
-{
-"id": 164,
-"quote": "It is impossible for a man to learn what he thinks he already knows.",
-"author": "Epictetus"
-},
-{
-"id": 165,
-"quote": "When we invite an external problem to ruin our day, we betray our internal governance.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 166,
-"quote": "Give me a single man who cares how he does what he does, and is interested rather in the execution than the outcome.",
-"author": "Epictetus"
-},
-{
-"id": 167,
-"quote": "Know you not that a good man does nothing for appearance' sake, but for the sake of having done right?",
-"author": "Epictetus"
-},
-{
-"id": 168,
-"quote": "True philosophy lies in actions, not in grand orations.",
-"author": "Musonius Rufus"
-},
-{
-"id": 169,
-"quote": "The primary task in life is simply this: to identify and separate matters so that I can say clearly which are externals.",
-"author": "Epictetus"
-},
-{
-"id": 170,
-"quote": "He who fawns over rulers trades his mind for safety.",
-"author": "Epictetus"
-},
-{
-"id": 171,
-"quote": "We must not mind the insults of men who lack knowledge of virtue.",
-"author": "Musonius Rufus"
-},
-{
-"id": 172,
-"quote": "The source of all human misery is the misapplication of general principles to particular cases.",
-"author": "Epictetus"
-},
-{
-"id": 173,
-"quote": "If anyone tells you that a certain person speaks ill of you, do not make excuses but answer: He was ignorant of my other faults.",
-"author": "Epictetus"
-},
-{
-"id": 174,
-"quote": "A citizen of the world knows no limits to his compassion or his responsibility.",
-"author": "Epictetus"
-},
-{
-"id": 175,
-"quote": "No labor is too great if it results in the correction of your character.",
-"author": "Musonius Rufus"
-},
-{
-"id": 176,
-"quote": "When you have shut your doors, and darkened your room, remember never to say that you are alone, for you are not; God is within.",
-"author": "Epictetus"
-},
-{
-"id": 177,
-"quote": "To live a life of pleasure is to live a life of dependence.",
-"author": "Musonius Rufus"
-},
-{
-"id": 178,
-"quote": "The shield of the wise man is his indifference to the arrows of praise.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 179,
-"quote": "The mind is not a vessel to be filled, but a hearth to be guarded.",
-"author": "Epictetus"
-},
-{
-"id": 180,
-"quote": "If you would have your mind at peace, be ready to be considered simple and foolish.",
-"author": "Epictetus"
-},
-{
-"id": 181,
-"quote": "Difficulties are things that show what men are.",
-"author": "Epictetus"
-},
-{
-"id": 182,
-"quote": "Let death and exile and everything which appears terrible be daily before your eyes.",
-"author": "Epictetus"
-},
-{
-"id": 183,
-"quote": "Never say of anything, 'I have lost it'; but, 'I have returned it.'",
-"author": "Epictetus"
-},
-{
-"id": 184,
-"quote": "Be satisfied with being a philosopher; and if you wish to seem so to anyone, seem so to yourself.",
-"author": "Epictetus"
-},
-{
-"id": 185,
-"quote": "The true test of a man is how he bears himself when the world turns against him.",
-"author": "Seneca"
-},
-{
-"id": 186,
-"quote": "Let not your mind wander from the task at hand; focus is the root of excellence.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 187,
-"quote": "In every circumstance, keep your primary directives clean.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 188,
-"quote": "A healthy mind does not require gold or praise to demonstrate its perfection.",
-"author": "Seneca"
-},
-{
-"id": 189,
-"quote": "An unexamined life is a journey through thick fog.",
-"author": "Epictetus"
-},
-{
-"id": 190,
-"quote": "Be content with what you are, and wish not change; nor dread your last day, nor long for it.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 191,
-"quote": "To complain about fate is to show yourself a raw recruit in the army of nature.",
-"author": "Seneca"
-},
-{
-"id": 192,
-"quote": "The universe is change; our life is what our thoughts make it.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 193,
-"quote": "The soul is like a city under siege: if the walls are weak, the enemy enters.",
-"author": "Chrysippus"
-},
-{
-"id": 194,
-"quote": "Let your desires be governed by reason, not by the shifting whims of the crowd.",
-"author": "Seneca"
-},
-{
-"id": 195,
-"quote": "Do not seek to outshine others in luxury; seek to outshine them in wisdom.",
-"author": "Musonius Rufus"
-},
-{
-"id": 196,
-"quote": "The mind that is free from desire is an impregnable citadel.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 197,
-"quote": "Nothing is so burdensome as a mind that cannot govern its own appetites.",
-"author": "Seneca"
-},
-{
-"id": 198,
-"quote": "A truly noble soul does not fear death, but rather a life devoid of purpose.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 199,
-"quote": "Look at the stars and see yourself running with them.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 200,
-"quote": "If you wish to be free from anxiety, live each day as if it were your entire life.",
-"author": "Seneca"
-},
-{
-"id": 201,
-"quote": "The greatest wealth is to live content with little.",
-"author": "Seneca"
-},
-{
-"id": 202,
-"quote": "Do not let the impressions of the world sweep you off your feet.",
-"author": "Epictetus"
-},
-{
-"id": 203,
-"quote": "Every difficulty is an opportunity to practice a new virtue.",
-"author": "Epictetus"
-},
-{
-"id": 204,
-"quote": "The soul's true beauty lies in its adherence to justice and truth.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 205,
-"quote": "A wise man adapts to his circumstances as water shapes itself to the vessel.",
-"author": "Zeno of Citium"
-},
-{
-"id": 206,
-"quote": "Do not be distracted by the clamor of the marketplace; your sanctuary is within.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 207,
-"quote": "True strength lies not in the absence of emotion, but in the mastery of it.",
-"author": "Seneca"
-},
-{
-"id": 208,
-"quote": "The mind that is steady can look upon any disaster without flinching.",
-"author": "Chrysippus"
-},
-{
-"id": 209,
-"quote": "A life spent chasing shadows is a life wasted.",
-"author": "Epictetus"
-},
-{
-"id": 210,
-"quote": "Do not complain about the darkness; be the one who brings the light.",
-"author": "Musonius Rufus"
-},
-{
-"id": 211,
-"quote": "The wise man is never lonely, for he is always in the company of his own thoughts.",
-"author": "Seneca"
-},
-{
-"id": 212,
-"quote": "Let your actions match your words, and your words match your thoughts.",
-"author": "Epictetus"
-},
-{
-"id": 213,
-"quote": "Nothing external can harm you unless you allow it entry into your soul.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 214,
-"quote": "The path to peace is found by surrendering what you cannot control.",
-"author": "Epictetus"
-},
-{
-"id": 215,
-"quote": "A man who fears nothing has already conquered the world.",
-"author": "Seneca"
-},
-{
-"id": 216,
-"quote": "Do not build your house on the shifting sands of public opinion.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 217,
-"quote": "The soul is dyed with the color of its deeds.",
-"author": "Chrysippus"
-},
-{
-"id": 218,
-"quote": "To live in accordance with nature is to live in perfect harmony.",
-"author": "Zeno of Citium"
-},
-{
-"id": 219,
-"quote": "A wise man seeks nothing beyond his own moral character.",
-"author": "Epictetus"
-},
-{
-"id": 220,
-"quote": "Do not let yesterday's failures cast a shadow over today's resolve.",
-"author": "Seneca"
-},
-{
-"id": 221,
-"quote": "The mind is its own place, and can make a heaven of hell or a hell of heaven.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 222,
-"quote": "True wealth is not measured by possessions, but by the absence of greed.",
-"author": "Seneca"
-},
-{
-"id": 223,
-"quote": "The only real harm that can come to you is the corruption of your own character.",
-"author": "Epictetus"
-},
-{
-"id": 224,
-"quote": "Do not wait for the perfect moment; take the moment and make it perfect.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 225,
-"quote": "A steadfast mind is a shield against all the arrows of fortune.",
-"author": "Seneca"
-},
-{
-"id": 226,
-"quote": "The universe is a single living being; act always as a part of it.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 227,
-"quote": "Do not let the behavior of others disturb your inner peace.",
-"author": "Epictetus"
-},
-{
-"id": 228,
-"quote": "A life of virtue is its own reward.",
-"author": "Zeno of Citium"
-},
-{
-"id": 229,
-"quote": "The mind that is anchored in reason cannot be moved by passion.",
-"author": "Chrysippus"
-},
-{
-"id": 230,
-"quote": "Do not waste your breath on those who refuse to listen to reason.",
-"author": "Musonius Rufus"
-},
-{
-"id": 231,
-"quote": "The wise man looks inward for validation, never outward.",
-"author": "Seneca"
-},
-{
-"id": 232,
-"quote": "To master your thoughts is to master your destiny.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 233,
-"quote": "The only things that belong to you are your actions and your judgments.",
-"author": "Epictetus"
-},
-{
-"id": 234,
-"quote": "Do not let the fear of death rob you of the joy of living.",
-"author": "Seneca"
-},
-{
-"id": 235,
-"quote": "A clear conscience is the softest pillow.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 236,
-"quote": "The soul that is pure sees the world as it truly is.",
-"author": "Chrysippus"
-},
-{
-"id": 237,
-"quote": "To live simply is to live wisely.",
-"author": "Musonius Rufus"
-},
-{
-"id": 238,
-"quote": "The mind that is steady can weather any storm.",
-"author": "Seneca"
-},
-{
-"id": 239,
-"quote": "Do not seek to change the world; seek to change yourself.",
-"author": "Epictetus"
-},
-{
-"id": 240,
-"quote": "A man's true worth is shown in his treatment of his enemies.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 241,
-"quote": "The universe is governed by laws; find peace in accepting them.",
-"author": "Zeno of Citium"
-},
-{
-"id": 242,
-"quote": "Do not let the illusions of grandeur lead you astray.",
-"author": "Seneca"
-},
-{
-"id": 243,
-"quote": "The only true freedom is freedom from fear.",
-"author": "Epictetus"
-},
-{
-"id": 244,
-"quote": "A mind focused on virtue is a mind at rest.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 245,
-"quote": "Do not let the judgments of the ignorant affect your resolve.",
-"author": "Chrysippus"
-},
-{
-"id": 246,
-"quote": "A life of integrity requires no justification.",
-"author": "Musonius Rufus"
-},
-{
-"id": 247,
-"quote": "The wise man treats every obstacle as a stepping stone.",
-"author": "Seneca"
-},
-{
-"id": 248,
-"quote": "To know yourself is the beginning of all wisdom.",
-"author": "Epictetus"
-},
-{
-"id": 249,
-"quote": "The soul is an eternal flame; do not let it be extinguished by neglect.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 250,
-"quote": "Do not look back with regret; look forward with determination.",
-"author": "Seneca"
-},
-{
-"id": 251,
-"quote": "The mind that is disciplined is a powerful ally.",
-"author": "Chrysippus"
-},
-{
-"id": 252,
-"quote": "To find happiness, limit your desires to what is within your reach.",
-"author": "Epictetus"
-},
-{
-"id": 253,
-"quote": "A man of character stands firm even when the ground gives way.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 254,
-"quote": "Do not chase after fleeting pleasures; chase after lasting peace.",
-"author": "Seneca"
-},
-{
-"id": 255,
-"quote": "The world is a mirror; it reflects back your own inner state.",
-"author": "Zeno of Citium"
-},
-{
-"id": 256,
-"quote": "To be content with the present is the ultimate wisdom.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 257,
-"quote": "Do not let the malice of others corrupt your kindness.",
-"author": "Epictetus"
-},
-{
-"id": 258,
-"quote": "A noble character is the best legacy you can leave behind.",
-"author": "Musonius Rufus"
-},
-{
-"id": 259,
-"quote": "The mind that is free is the only mind that can think clearly.",
-"author": "Seneca"
-},
-{
-"id": 260,
-"quote": "Do not fear hardship; it is the forge in which character is shaped.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 261,
-"quote": "The only limits that exist are the ones you place on yourself.",
-"author": "Epictetus"
-},
-{
-"id": 262,
-"quote": "A steady hand and a calm mind can accomplish anything.",
-"author": "Chrysippus"
-},
-{
-"id": 263,
-"quote": "To live with honor is to live without fear.",
-"author": "Seneca"
-},
-{
-"id": 264,
-"quote": "Do not let the weight of the world crush your spirit.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 265,
-"quote": "The wise man accepts what cannot be changed and moves forward.",
-"author": "Zeno of Citium"
-},
-{
-"id": 266,
-"quote": "To find truth, look beneath the surface of things.",
-"author": "Epictetus"
-},
-{
-"id": 267,
-"quote": "A disciplined mind is a refuge from all worldly chaos.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 268,
-"quote": "Do not seek applause; seek the approval of your own conscience.",
-"author": "Seneca"
-},
-{
-"id": 269,
-"quote": "The soul's journey is inward, not outward.",
-"author": "Chrysippus"
-},
-{
-"id": 270,
-"quote": "To be at peace with yourself is to be at peace with the world.",
-"author": "Musonius Rufus"
-},
-{
-"id": 271,
-"quote": "The only true mastery is the mastery of one's own desires.",
-"author": "Epictetus"
-},
-{
-"id": 272,
-"quote": "Do not let the distractions of life derail your purpose.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 273,
-"quote": "A mind anchored in truth cannot be shaken by falsehood.",
-"author": "Seneca"
-},
-{
-"id": 274,
-"quote": "To live a life of virtue is to live a life of true freedom.",
-"author": "Zeno of Citium"
-},
-{
-"id": 275,
-"quote": "Do not look for happiness in the hands of others; it is in your own.",
-"author": "Epictetus"
-},
-{
-"id": 276,
-"quote": "A strong character is built one choice at a time.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 277,
-"quote": "The universe operates in perfect order; find your place within it.",
-"author": "Chrysippus"
-},
-{
-"id": 278,
-"quote": "Do not let the opinion of the crowd dictate your worth.",
-"author": "Seneca"
-},
-{
-"id": 279,
-"quote": "A clear vision and a steady heart will guide you through any darkness.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 280,
-"quote": "To master the self is the greatest of all victories.",
-"author": "Epictetus"
-},
-{
-"id": 281,
-"quote": "Do not let the small things steal your joy.",
-"author": "Musonius Rufus"
-},
-{
-"id": 282,
-"quote": "A wise man guards his mind as a treasure.",
-"author": "Seneca"
-},
-{
-"id": 283,
-"quote": "The path of virtue is its own light.",
-"author": "Zeno of Citium"
-},
-{
-"id": 284,
-"quote": "To live without pretense is to live with true power.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 285,
-"quote": "Do not be enslaved by your passions; be liberated by your reason.",
-"author": "Epictetus"
-},
-{
-"id": 286,
-"quote": "A soul that is at peace radiates strength.",
-"author": "Chrysippus"
-},
-{
-"id": 287,
-"quote": "To stand alone for what is right is the ultimate courage.",
-"author": "Seneca"
-},
-{
-"id": 288,
-"quote": "Do not let the passage of time diminish your resolve.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 289,
-"quote": "The only true wealth is the wealth of the soul.",
-"author": "Epictetus"
-},
-{
-"id": 290,
-"quote": "A quiet mind can find beauty in the simplest things.",
-"author": "Musonius Rufus"
-},
-{
-"id": 291,
-"quote": "To live each day with intention is the mark of a wise man.",
-"author": "Seneca"
-},
-{
-"id": 292,
-"quote": "Do not let the noise of the world drown out your inner voice.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 293,
-"quote": "A mind that is flexible can never be broken.",
-"author": "Zeno of Citium"
-},
-{
-"id": 294,
-"quote": "The path to tranquility is paved with acceptance.",
-"author": "Epictetus"
-},
-{
-"id": 295,
-"quote": "A noble heart finds joy in the welfare of others.",
-"author": "Chrysippus"
-},
-{
-"id": 296,
-"quote": "Do not seek to escape reality; seek to master it.",
-"author": "Seneca"
-},
-{
-"id": 297,
-"quote": "The soul is the pilot; let reason be the map.",
-"author": "Marcus Aurelius"
-},
-{
-"id": 298,
-"quote": "To find true freedom, detach yourself from worldly outcomes.",
-"author": "Epictetus"
-},
-{
-"id": 299,
-"quote": "A life grounded in virtue stands unshaken by any storm.",
-"author": "Musonius Rufus"
-},
-{
-"id": 300,
-"quote": "The journey of a thousand miles begins with a single, mindful step.",
-"author": "Seneca"
-}
+  {
+    "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Waste no more time arguing about what a good man should be. Be one.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The impediment to action advances action. What stands in the way becomes the way.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "If you are distressed by anything external, the pain is not due to the thing itself but to your estimate of it; and this you have the power to revoke at any moment.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The best revenge is to be unlike him who performed the injury.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Whenever you are about to find fault with someone, ask yourself the following question: What fault of mine most nearly resembles the one I am about to criticize?",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one was ever truly harmed.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "To stand up straight - not straightened.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Concentrate on this, your whole life long: for your mind to be in the right state.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "No random actions, none not based on underlying principles.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "There's nothing manly about rage.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Everyone gets one life. Don't waste it being someone you are not.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Not to live as if you had endless years ahead of you. Death overshadows you.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Why all this guesswork? You can see what needs to be done. If you can see the road, follow it cheerfully, without turning back.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Don't you see how much you have to offer, beyond excuses like 'can't'? And yet you still settle for less.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "If it is not right, do not do it. If it is not true, do not say it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The universe is change; our life is what our thoughts make it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "He who lives in harmony with himself lives in harmony with the universe.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "To live happily is an inward power of the soul.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Poverty is the mother of crime.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "It is not the man who has too little, but the man who craves more, that is poor.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Confine yourself to the present.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Loss is nothing else but change, and change is Nature's delight.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Let it be your constant method to look into the design of people's actions, and see what they would be at, as often as it is practicable.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "How much trouble he avoids who does not look to see what his neighbor says or does or thinks.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Our actions may be impeded, but there can be no impeding our intentions or dispositions, because we can accommodate and adapt.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "If you seek tranquility, do less. Ask yourself at every moment, is this necessary?",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "To feel affection for people even when they make mistakes is uniquely human.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Remember that man lives only in the present, in this fleeting instant; all the rest of his life is either past and gone, or not yet revealed.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Be like the rocky headland on which the waves constantly break. It stands firm, and round it the seething waters are calmed.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "How quickly things vanish: in the universe, the bodies themselves, but in time, the memory of them.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Nowhere can a man find a quieter or more untroubled retreat than in his own soul.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Such as are your habitual thoughts, such also will be the character of your mind; for the soul is dyed by the thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "A man's worth is no greater than the worth of his ambitions.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Look well into thyself; there is a source of strength which will always spring up if thou wilt always look there.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "It is in your power to withdraw yourself whenever you desire.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Tomorrow is nothing, today is too late; the good lived yesterday.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Reject your sense of injury and the injury itself disappears.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Do every act of your life as if it were your last.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Time is a sort of river of passing events, and strong is its current; no sooner is a thing brought to sight than it is swept by and another takes its place.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Adapt yourself to the things among which your lot has been cast, and the men among whom you live, love them, but do it truly, sincerely.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Misfortune nobly born is good fortune.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Disturbance comes only from within, from one's own perceptions.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The art of living is more like wrestling than dancing, because it requires being prepared to meet and withstand sudden and unexpected attacks.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Whatever any one does or says, I must be good; just as if the gold, or the emerald, or the purple were always saying this: whatever any one does or says, I must be emerald and keep my color.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Be not ashamed to be helped; for it is thy business to do thy duty like a soldier in the assault on a town.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Nothing happens to anybody which he is not formed by nature to bear.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Receive without pride, let go without attachment.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "It is not that we have a short time to live, but that we waste a lot of it. Life is long enough if it were all well invested.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "People are frugal in guarding their personal property, but as soon as it comes to squandering time, they are most wasteful of the one thing in which it is right to be stingy.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "You act like mortals in all that you fear, and like immortals in all that you desire.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "How late it is to begin really to live just when life must end.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "It is inevitable that life will be not just very short but very miserable for those who acquire by great toil what they must keep by greater toil.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "As far as I am concerned, I know that I have lost not wealth but distractions.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Nothing satisfies greed, but even a little satisfies nature.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The whole future lies in uncertainty: live immediately.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "But learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "He who fears death will never do anything worthy of a living man.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "All those who call you to themselves draw you away from yourself.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Of all people only those are at leisure who make time for philosophy; only those are really alive.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Putting things off is the biggest waste of life: it snatches away each day as it comes, and denies us the present by promising the future.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The greatest obstacle to living is expectancy, which hangs upon tomorrow and loses today.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "So you must match time's swiftness with your speed in using it.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "We are tight-fisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "No condition is so bitter that a stable mind cannot find some consolation in it.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "We suffer more in imagination than in reality.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Sometimes even to live is an act of courage.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "He who is brave is free.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Every new beginning comes from some other beginning's end.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "It is the power of the mind to be unconquerable.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Hang on to your youthful enthusiasms; you'll be able to use them better when you're older.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Wealth is the slave of a wise man and the master of a fool.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The mind that is anxious about future events is miserable.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "If a man knows not to which port he sails, no wind is favorable.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "A gem cannot be polished without friction, nor a man perfected without trials.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "True happiness is to enjoy the present, without anxious dependence upon the future.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "While we wait for life, life passes.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Man cannot be deprived of the things that truly belong to him.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Begin at once to live, and count each separate day as a separate life.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The mind freed from the usual ways of looking at things acquires a wonderful breadth of vision.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Fire is the test of gold; adversity, of strong men.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Associate with people who are likely to improve you.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Nothing is more honorable than a grateful heart.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "We are all chained to fortune; the chain of one is made of gold and wide, while that of another is short and rusty. But what difference does it make?",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Travel and change of place impart new vigor to the mind.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Let your tears flow, but let them also cease.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "To wish to be well is a part of becoming well.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "What need is there to weep over parts of life? The whole of it calls for tears.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "It is not that we have so little time but that we lose so much.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Anger, if not restrained, is frequently more hurtful to us than the injury that provokes it.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "A man who suffers before it is necessary, suffers more than is necessary.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Many men get knowledge, but very few wisdom.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The bravest sight in the world is to see a great man struggling against adversity.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Sometimes the very fear of suffering makes men suffer.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "To be everywhere is to be nowhere.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "In every good there is admixture of bad, and in every bad there is some seed of good.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "No man was ever wise by chance.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Until we have begun to go without them, we fail to realize how unnecessary many things are.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "It is a denial of justice not to stretch out a helping hand to the fallen.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "To everything, time brings degeneration, but knowledge, too, can be transmitted.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "As long as you live, keep learning how to live.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Sometimes that which has been most carefully concealed becomes most evident.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "A great fortune is a great slavery.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "It isn't the things themselves that disturb people, but the judgments that they form about them.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Men are disturbed not by the things that happen, but by their opinions about the things that happen.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "No man is free who is not master of himself.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "It is impossible for a man to learn what he thinks he already knows.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Who is your master? Anyone who has control over things upon which you've set your heart, or over things which you seek to avoid.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "You are not your body and hair-style, but your capacity for choosing well.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "We are not privy to the stories behind people's actions, so we should be patient with others and suspend judgment of them.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "In prosperity it is very easy to find a friend; but in adversity it is the most difficult of all things.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Deliberate much before saying or doing anything, for you will not have the power of recalling what is said or done.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "To make the best of what is in our power, and take the rest as it occurs.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "A ship should not ride on a single anchor, nor life on a single hope.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "There is only one way to happiness, and that is to cease worrying about things which are beyond the power of our will.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "An ignorant person is inclined to blame others for his own misfortune. To blame oneself is proof of progress.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "If you have assumed a character above your strength, you have both acted in an unbecoming way and neglected that which you might have fulfilled.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Circumstances do not make the man; they merely reveal him to himself.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "We have two ears and one mouth so that we can listen twice as much as we speak.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "It takes more than just a good-looking body. You've got to have the heart and soul to go with it.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Only the educated are free.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "First say to yourself what you would be, and then do what you have to do.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Don't explain your philosophy. Embody it.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "It is the act of an ill-instructed man to blame others for his own bad condition.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "If you want to improve, be content to be thought foolish and stupid.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "How long are you going to wait before you demand the best for yourself?",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Whenever you are angry, be assured that it is not only a present evil, but that you have increased a habit.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Man is disturbed not by events but by the views he takes of them.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Caretake this moment. Immerse yourself in its particulars.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Difficulties are things that show a person what they are.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Demand not that events should happen as you wish, but wish them to happen as they do happen, and you will go on well.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "He who hangs his happiness on the actions or opinions of others will never be content.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Any person capable of angering you becomes your master.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Keep death and exile before your eyes each day, along with everything that seems terrible, and you will never have a base thought.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "A room without books is like a body without a soul.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "While there's life, there's hope.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "The life given us, by nature is short, but the memory of a well-spent life is eternal.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Nothing is so unbearable as ease of mind, unless it is alleviated by alternating exertion.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Virtue is the only true and substantial greatness.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "To be ignorant of what occurred before you were born is to remain perpetually a child.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "The greater the difficulty, the greater the glory.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Friendship makes prosperity more shining and lessens adversity by dividing and sharing it.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Old age, especially an honored old age, has so great authority, that this is of more value than all the pleasures of youth.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "An honest man can never become an outcast wherever he goes.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Glory follows virtue as if it were its shadow.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "It is the nature of every person to err, but only the fool perseveres in error.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Within the character of the citizen lies the welfare of the nation.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "A man of courage is also full of faith.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "The pleasures of the table are shared by all ranks; it is only the means and not the gusto for them, that fortune varies.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "No one can give you wiser advice than yourself.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself.",
+    "author": "Zeno of Citium"
+  },
+  {
+    "quote": "The goal of life is living in agreement with nature.",
+    "author": "Zeno of Citium"
+  },
+  {
+    "quote": "Happiness is a good flow of life.",
+    "author": "Zeno of Citium"
+  },
+  {
+    "quote": "Better to trip with the feet than with the tongue.",
+    "author": "Zeno of Citium"
+  },
+  {
+    "quote": "Well-being is realized by small steps, but is truly no small thing.",
+    "author": "Zeno of Citium"
+  },
+  {
+    "quote": "Man's happiness consists in living agreeably to nature.",
+    "author": "Zeno of Citium"
+  },
+  {
+    "quote": "Lead me, O Zeus, and thou, O Destiny, wheresoever I am appointed to go, and I will follow without wavering.",
+    "author": "Cleanthes"
+  },
+  {
+    "quote": "Fate guides the willing, but drags the unwilling.",
+    "author": "Cleanthes"
+  },
+  {
+    "quote": "If you accomplish something good with hard work, the labor passes quickly, but the good endures.",
+    "author": "Musonius Rufus"
+  },
+  {
+    "quote": "There is value in every type of work that is honest and productive.",
+    "author": "Musonius Rufus"
+  },
+  {
+    "quote": "It is impossible to live well today unless one treats it as one's last day.",
+    "author": "Musonius Rufus"
+  },
+  {
+    "quote": "To live well is the most important thing, and philosophy is nothing other than this: investigating how one might live well.",
+    "author": "Musonius Rufus"
+  },
+  {
+    "quote": "Virtue is not a theoretical science only, but is also practical.",
+    "author": "Musonius Rufus"
+  },
+  {
+    "quote": "The man who has been taught to obey reason will, I think, obey it whether it tells him to act or not to act.",
+    "author": "Musonius Rufus"
+  },
+  {
+    "quote": "Life is not the way it's supposed to be. It's the way it is. The way you cope with it is what makes the difference.",
+    "author": "Chrysippus"
+  },
+  {
+    "quote": "Nothing happens without a cause.",
+    "author": "Chrysippus"
+  },
+  {
+    "quote": "I begin to speak only when I'm certain what I'll say isn't better left unsaid.",
+    "author": "Cato the Younger"
+  },
+  {
+    "quote": "It is part of human nature to hate the man whom you have hurt.",
+    "author": "Cato the Younger"
+  },
+  {
+    "quote": "Make for yourself a definition or description of the thing presented to you, so as to see distinctly what kind of a thing it is in its substance.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The soul becomes dyed with the color of its thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The art of living is more like a wrestling match than a dance.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "How free of trouble is the man who thinks of nothing else than the right action and the disposition with which it ought to be done.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Do not act as if you had ten thousand years to throw away. Death stands at your elbow.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "What we do now echoes in eternity.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Every habit and capability is confirmed and grows in its corresponding actions.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Apply yourself to a problem until you understand it; you'll find that what once seemed obscure becomes simple.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Match the present moment to the demands placed upon you, and you will be at peace.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Just as you would treat your parent or teacher with deference, treat fortune the same way.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Be satisfied with success in even the smallest matter, and think that even such a result is no small thing.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "He who has felt great joy at doing someone a service is not one who looks for a profitable return.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "In your actions, don't procrastinate. In your conversations, don't confuse. In your thoughts, don't wander.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Choose not to be harmed, and you won't feel harmed. Don't feel harmed, and you haven't been.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "External things are not the problem; it's your assessment of them. Erase that and you're safe.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Be careful to attribute to the gods what belongs to the gods, and to men what belongs to men.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Each day provides its own gifts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "A man's true delight is to do the things he was made for.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "You could leave life right now. Let that determine what you do and say and think.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "If anyone can refute me, show me I'm making a mistake or looking at things from the wrong perspective, I'll gladly change.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "To bear in mind constantly that all of this has happened before, and will happen again, the same plot from beginning to end.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "When you arise in the morning, think of what a precious privilege it is to be alive, to breathe, to think, to enjoy, to love.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Think of yourself as dead. You have lived your life. Now take what's left and live it properly.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Do not waste the remainder of your life thinking about others, when you are not thinking with reference to some aspect of the common good.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Take away your opinion, and then there is taken away the complaint.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Do what is necessary, and whatever the reason of the animal which is naturally social requires.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "What is not good for the swarm is not good for the bee.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The opinion which we have of things is more important than the things themselves.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Let no act be done without a purpose, nor otherwise than according to the perfect principles of art.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Consider that everything which happens, happens justly, and if you observe carefully, you will find it to be so.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Look beneath the surface; let not the several qualities of a thing nor its worth escape thee.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Of human life, the time is a point, the substance is in a flux, the perception dull, the composition of the whole body subject to putrefaction.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Be not unwilling in what thou doest, neither selfish nor unreflecting nor open to distraction.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "That which rules within us, when it is according to nature, is so affected with respect to the events which happen, that it always easily adapts itself to that which is and is presented to it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Let it make no difference to thee whether thou art cold or warm, if thou art doing thy duty.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Today I escaped anxiety. Or no, I discarded it, because it was within me, in my own perceptions, not outside.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Nothing is more wretched than a man who traverses everything in a round, and pries into things beneath the earth.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "It is in thy power to live free from all compulsion in the greatest tranquility of mind.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "If thou workest at that which is before thee, following right reason seriously, vigorously, calmly, without allowing anything else to distract thee, but keeping thy divine part pure, thou wilt live happy.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Men exist for the sake of one another. Teach them then or bear with them.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Let opinion be removed, and the fear of dying is removed.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "The man who does not know what the world is, does not know where he is.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "From the gods come all things full of soul, and by nature too all things are full of providence.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Unhappy am I because this has happened to me. Not so, but happy am I, though this has happened to me, because I continue free from pain.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "This is the chief thing: be not perturbed, for all things are according to the nature of the universal.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "In a little while thou wilt have forgotten everything; in a little while everything will have forgotten thee.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "It is a man's peculiar duty to love even those who wrong him.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Let men see, let them know a real man, who lives as he was meant to live.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "If you live in harmony with nature you will never be poor; if you live according to what others think, you will never be rich.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Throw out most of what you greet with pleasure or pain and you'll immediately find yourself in better stead.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The whole of life is but a point of time; let us enjoy it.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Sometimes there is more vitality in a glance exchanged than in hours of conversation.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Where the mind is gladdened, it grows fertile in invention, and that gladness must come of itself.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Each day acquire something that will fortify thee against poverty, against death, indeed against other misfortunes as well.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The greatest loss of time is delay and expectation, which depend upon the future.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "To do philosophy is this: to test and preserve that peace within yourself and never disturb it.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Drunkenness is nothing but voluntary madness.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "He who allows his day to pass by without the practice of generosity and enlargement of heart is more reprehensible than if he had been ill.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The willingly obedient avoid the bitterest part of slavery, doing what they had to do anyway.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Sometimes also there is a great pleasure in making preparations for a thing.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "All cruelty springs from weakness.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Time discovers truth.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "As is a tale, so is life: not how long it is, but how good it is, is what matters.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The point is, not how long you live, but how nobly you live.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Hold on tightly. Let go lightly. This is one of the great secrets of happiness.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Be silent for the most part, and exchange only such few words as are necessary, and let them be uttered with brevity.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "True joy is a serene and dignified contentment.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Crescit occulto velut arbor aevo fama. Fame grows like a tree through unseen years.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "No man is more unhappy than the one who is never in adversity; the greatest misfortune is to be exempt from misfortune.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Whoever does not regard what he has as ample wealth, though he be master of the whole world, is yet a man to be pitied.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "A man who has anticipated the coming of troubles takes away their power when they arrive.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Nothing, to my way of thinking, is a better proof of a well-ordered mind than a man's ability to stop just where he is and pass some time in his own company.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "All art is but imitation of nature.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "It is quality rather than quantity that matters.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Be rough with yourself, at times, in your inner dialogue.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Calamity is virtue's opportunity.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Wherever there is a human being, there is an opportunity for kindness.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Many things which were thought impossible have through perseverance been accomplished.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "When you close your doors and make darkness within, remember never to say that you are alone, for you are not alone.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Other people's mistakes should be a source of charity rather than anger.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "The key is to keep company only with people who uplift you, whose presence calls forth your best.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Try to enjoy the great festival of life with other men.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Disease is an impediment to the body, but not to the will.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "It is not death or hardship that is a fearful thing, but the fear of death or hardship.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Until you have made your principles firm, be cautious about associating with ordinary people.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "First show respect for yourself, and only then will you be able to make demands of life with confidence.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Progress is not achieved by luck or accident, but by working on yourself daily.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Above all, know thyself, which is the beginning of wisdom.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "It is not he who reviles or strikes you who insults you, but it is your opinion about these things as being insulting.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Nothing great is created suddenly, any more than a bunch of grapes or a fig.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Examine yourself, whether you wish to be a sea-captain or a passenger.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "You become what you give your attention to.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "He is wise who does not grieve for the things which he has not, but rejoices for those which he has.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Practice yourself, for heaven's sake, in little things, and thence proceed to greater.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "As long as you are studying philosophy, you have nothing to fear, for nothing can be feared except a wicked life.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "There is nothing so absurd but some philosopher has said it.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "The wise are instructed by reason; ordinary minds by experience; the stupid by necessity; and brutes by instinct.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Anyone can pilot a ship in calm seas; it is the storm that reveals the captain.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Where there is no law, there is no freedom.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Justice consists in doing no injury to men; decency in giving them no offense.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Nature herself has placed in our minds an insatiable longing to see the truth.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "The safety of the people is the highest law.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Endurance of labors is the way to good things.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Custom is almost a second nature.",
+    "author": "Cicero"
+  },
+  {
+    "quote": "Man is not worried by real problems so much as by his imagined anxieties about real problems.",
+    "author": "Epictetus"
+  },
+  {
+    "quote": "Choose a master whose life, conversation, and soul-expressing face have satisfied you; picture him always to yourself as your protector or your pattern.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "We should every night call ourselves to an account: what infirmity have I mastered today? What passions opposed? What temptation resisted?",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, so that you may know by practice that poverty is no real hardship.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Rivers of the largest size are crossed in safety, or, if they cause fear, it is at their source.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "Just as you would treat with deference your father, your teacher, the emperor, treat the divine reason within you the same way.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Every wrongdoer is doing harm to himself, the man who has done a wrong is the only one really harmed, since he has done harm to his own ruling faculty.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "A blazing fire makes flame and brightness out of everything that is thrown into it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Just that you do the right thing. The rest doesn't matter.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "There is nothing the wise man does reluctantly.",
+    "author": "Seneca"
+  }
 ]
